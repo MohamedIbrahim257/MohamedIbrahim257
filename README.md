@@ -21,3 +21,7 @@
 <p>Javascript (probably will be learning it forever)</p>
 <p>React</p>
 <p>accessibility</p>
+
+<hr/>
+
+<p>If you'd like to chat or collab with me, you can reach me via <a href="mailto:m00ibrahim257@gmail.com" > email </a>or find me on <a href="https://www.linkedin.com/in/mohamed-ibrahim-096858216/" >Linkedin.</a> </p>
