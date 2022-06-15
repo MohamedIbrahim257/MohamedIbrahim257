@@ -11,15 +11,17 @@
    <li>CSS / Sass</li>
    <li>Javascript</li>
    <li>React</li>
-  <li>yarn</li>
+   <li>React-Native</li>
+   <li>yarn</li>
   <li>Bootstrap, Tailwind</li>
- <li>VSCode, Parcel, Netlify</li>
+  <li>VSCode, Parcel, Netlify</li>
 </ul>
 
 <p>🌱 Currently I'm learning:</p>
 
 <p>Javascript (probably will be learning it forever)</p>
 <p>React</p>
+<p>React-Native</p>
 <p>accessibility</p>
 
 <hr/>
