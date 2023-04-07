@@ -1,7 +1,7 @@
 <h1>Hi, I am Mohamed Ibrahim 👨‍💻</h1>
 
 
-<p>I am a Front-end Developer. I am passionate about technologies and love to learn new things I discovered how cool coding is I love learning and creating new things. Right now, I spend a lot of time building Frontend Mentor projects and doing my best to help others.</p>
+<p>Experienced Frontend Developer with a strong background in React. Proficient in developing and maintaining user-facing features and implementing responsive design. Strong understanding of JavaScript, HTML, and CSS. Proven ability to work in a fast-paced environment and deliver high- quality code. Adept at troubleshooting and debugging to ensure smooth functionality of web applications. Committed to staying current with the latest advancements in frontend development.</p>
 
 
 <h1>🔨 Tools I use:</h1>
